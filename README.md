@@ -1,5 +1,5 @@
 # Challenges
-Collection of coding challenge solutions written in clean code
+Clean coding challenge solutions written in Java
    
 ## Author
 Harry Liu - [byliuyang](https://github.com/byliuyang)
